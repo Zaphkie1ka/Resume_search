@@ -9,12 +9,12 @@ namespace System_jobhunt
 {
     public enum Job
     {
-        Engineer,
-        Teacher,
-        Lawyer,
-        Driver,
-        Doctor,
-        Architect
+        Инженер,
+        Учитель,
+        Адвокат,
+        Водитель,
+        Доктор,
+        Архитектор
     }
 
     internal class Resume
